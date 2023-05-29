@@ -24,4 +24,3 @@ class Magazine
     @category
   end
 end
-
